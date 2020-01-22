@@ -1,0 +1,736 @@
+﻿Animal,Weight
+Blue whale,136000
+Bowhead,100000
+Fin whale,70000
+Southern right whale,45000
+Humpback whale,30000
+Gray whale,28500
+Northern right whale,23000
+Sei whale,20000
+Bryde's whale,16000
+Baird's beaked whale,11380
+Minke whale,7500
+Northern bottlenose whale,6500
+Gervais's beaked whale,5600
+African elephant,4800
+Killer whale,3988
+Hippopotamus,3750
+Asian elephant,3178
+Cuvier's beaked whale,2701
+Short-finned pilot whale,2200
+White rhinoceros,2175
+Javan rhinoceros,1750
+Indian rhinoceros,1602
+Northern elephant seal,1600
+Beluga,1430
+Southern elephant seal,1400
+Sumatran rhinoceros,1260
+Narwhal,1250
+Black rhinoceros,1100
+Blainville's beaked whale,1088
+Long-finned pilot whale,1060
+Walrus,1013
+Gaur,825
+Giraffe,800
+Kouprey,800
+False killer whale,748
+Water buffalo,725
+African buffalo,700
+Banteng,700
+Yak,667
+American bison,630
+European bison,610
+Amazonian manatee,480
+Polar bear,475
+Bactrian camel,475
+Weddell seal,425
+Risso's dolphin,425
+Pygmy sperm whale,425
+Northern sea lion,415
+Hooded seal,405
+Moose,386
+Grevy's zebra,384
+Bearded seal,373
+Leopard seal,368
+Dugong,360
+Caribbean manatee,322
+Muskox,315
+Bongo,308
+Baird's tapir,300
+Mountain zebra,296
+Burchell's zebra,280
+Indo-Pacific humpbacked dolphin,280
+Brown bear and grizzly bear,278
+Mediterranean monk seal,275
+Kiang,275
+Gray seal,268
+Brazilian tapir,250
+Malayan tapir,250
+Tamaraw,240
+Kulan,230
+Roan antelope,225
+Sable antelope,225
+Okapi,225
+Hawaiian monk seal,223
+Greater kudu,218
+Pygmy hippopotamus,215
+Atlantic white-sided dolphin,208
+Southern sea lion,208
+Melon-headed whale,206
+Giant forest hog,203
+Bottlenosed dolphin,200
+Red deer,200
+Irrawaddy dolphin,190
+Australian sea lion,190
+New Zealand sea lion,188
+Pere David's deer,187
+Sambar,185
+Takin,180
+Harp seal,180
+California sea lion,180
+Wild boar,180
+Nilgai,180
+Scimitar-horned oryx,178
+Ross seal,177
+Waterbuck,175
+Lion,175
+Gemsbok,170
+Barasingha,170
+Northern fur seal,166
+Blue wildebeest,165
+Fraser's dolphin,164
+Argali,160
+Hartebeest,159
+Anoa,155
+American black bear,154
+Mountain anoa,150
+Mountain tapir,149
+Gorilla,140
+Thorold's deer,135
+Black wildebeest,132
+South African fur seal,128
+Guanaco,128
+Eld's deer,123
+Arabian oryx,121
+Nyala,120
+Dall's porpoise,120
+Tiger,120
+Giant panda,118
+Harbor seal,115
+Rough-toothed dolphin,114
+Pantropical spotted dolphin,113
+Striped dolphin,113
+South American fur seal,110
+Topi,110
+Spectacled bear,109
+Kob,105
+Asiatic black bear,104
+Pacific white-sided dolphin,103
+Bearded pig,103
+Marsh deer,103
+Caribou and reindeer,101
+Wart hog,100
+Sloth bear,100
+Lechwe,95
+Aoudad,93
+Addax,93
+Ribbon seal,90
+Mountain goat,90
+Nile lechwe,90
+Ringed seal,90
+Baikal seal,90
+Red river hog,88
+Bushpig,88
+Sitatunga,88
+White-tailed deer,87
+Caspian seal,86
+Spotted seal,85
+Antarctic fur seal,85
+Sassaby or blesbok,85
+Amazon dolphin,84
+Yangzte river dolphin or baiji,84
+Lesser kudu,83
+Ibex,83
+Jaguar,81
+Short-beaked saddleback dolphin,80
+Javan pig,76
+Nilgiri tahr,75
+Dall's sheep,73
+Dama gazelle,73
+Babirusa,72
+Bighorn sheep,70
+Jentink's duiker,70
+Chilean guemal,70
+West Caucasian tur,70
+Ganges dolphin,70
+Fallow deer,70
+Grant's gazelle,67
+Orangutan,64
+Timor deer,63
+Cougar,63
+Spotted hyena,63
+Yellow-backed duiker,62
+Bushbuck,60
+Aardvark,60
+Southern reedbuck,58
+Spanish ibex,58
+Mule deer,57
+Hector's dolphin,56
+Red kangaroo,55
+Bawean deer,55
+Capybara,55
+Bharal,55
+New Zealand fur seal,55
+Leopard,54
+Cheetah,54
+Harbor porpoise,53
+Impala,53
+Vicugna,50
+Sub-Antarctic fur seal,50
+Philippine brown deer,50
+Commerson's dolphin,50
+Snow leopard,50
+East Caucasian tur,50
+Antilopine wallaroo,50
+Eastern gray kangaroo,50
+Soemmering's gazelle,49
+Goitered gazelle,49
+Rhim gazelle,49
+River dolphin,47
+Nubian ibex,46
+Pronghorn,46
+Sun bear,46
+Bohar reedbuck,46
+Southern fur seal,46
+Red brocket,46
+Guemals,45
+Chimpanzee,45
+Gerenuk,44
+Brown hyena,42
+Sika deer,42
+Markhor,41
+Calamian deer,41
+Franciscana,41
+Striped hyena,40
+Pygmy chimpanzee or bonono,40
+Eastern roe deer,39
+Springbok,39
+Blackbuck,38
+Saiga,38
+Chamois,38
+Chital,36
+Himalayan tahr,35
+Chacoan peccary,35
+Tufted deer,34
+Giant armadillo,33
+Finless porpoise,33
+Pampas deer,33
+Goral,32
+Northern hairy-nosed wombat,31
+Dibatag,31
+Mongolian gazelle,30
+Wallaroo,30
+Pyranean chamois,30
+Mountain reedbuck,30
+Giant anteater,29
+Western gray kangaroo,28
+Chinese goral,27
+Gray wolf,27
+African wild dog,27
+Sea otter,26
+Hairy-nosed wombat,26
+Coarse-haired wombat,26
+European beaver,25
+Thomson's gazelle,25
+Common rhebok,25
+Giant otter,24
+Cape porcupine,24
+African clawless otter,24
+Mountain gazelle,23
+Arabian tahr,23
+Mandrill,23
+Lynx,23
+White-lipped peccary,22
+Fea's muntjac,22
+Western roe deer,22
+Maned wolf,22
+Indian muntjac,21
+American beaver,20
+Collared peccary,20
+Indian crested porcupine,20
+African porcupine,20
+Speke's gazelle,20
+Clouded leopard,20
+Four-horned antelope,19
+Indian gazelle,19
+Bush duiker,19
+Drill,18
+Black duiker,18
+Reeves's muntjac,18
+Hamadryas baboon,18
+Black wallaroo,18
+Zebra duiker,18
+Cuvier's gazelle,18
+Oribi,17
+Gray brocket,17
+Whiptail wallaby,17
+Wolverine,16
+Gelada baboon,16
+Red-necked wallaby,16
+Agile wallaby,16
+Caracal,16
+Dhole,16
+Red-fronted gazelle,15
+Swamp wallaby,15
+Proboscis monkey,15
+Dorcas gazelle,15
+Black-fronted duiker,14
+African civet,14
+Hanuman langur,14
+Asiatic golden cat,14
+Serval,13
+Coyote,13
+Indian pangolin,13
+Steenbok,13
+Old World badger,13
+Red-flanked duiker,13
+Patagonian cavy,13
+Pacarana,12
+Binturong,12
+Chinese forest musk deer,12
+Klipspringer,12
+Tonkean macaque,12
+Bay duiker,12
+Chinese water deer,12
+Capped leaf monkey,11
+Grizzled tree kangaroo,11
+Black-striped scrub wallaby,11
+Woolly spider monkey or muriqui,11
+Spanish lynx,11
+Alpine musk deer,11
+Water chevrotain,11
+Golden jackal,11
+Barbary macaque,11
+African golden cat,11
+Fishing cat,11
+Hog badger,11
+Tibetan macaque,10
+Black-backed jackal,10
+Side-striped jackal,10
+Cape grysbok,10
+Canada lynx,10
+Natal duiker,10
+Oriental civet,10
+Jungle cat,10
+Honey badger,10
+Southern pudu,10
+Siberian musk deer,10
+Guereza,10
+Douc langur,10
+Doria's tree kangaroo,10
+King colobus,10
+Fossa,10
+Small-eared dog,10
+Red-capped mangabey,9
+Tana River mangabey,9
+Gray-cheeked mangabey,9
+Bennett's tree kangaroo,9
+Koala,9
+Stump-tailed macaque,9
+Assam macaque,9
+Mountain paca,9
+Northern river otter,9
+Blue monkey,9
+Paca,9
+Smooth-coated otter,9
+Japanese macaque,9
+Ocelot,9
+Angolan colobus,9
+Bobcat,9
+North American porcupine,9
+Rhesus monkey,8
+Golden leaf monkey,8
+Pygmy hog,8
+Black tree kangaroo,8
+American badger,8
+Old World porcupine,8
+Celebes crested macaque,8
+Pigtail macaque,8
+Black spider monkey,8
+Liontail macaque,8
+Nutria,8
+Patas monkey,8
+White-bellied spider monkey,8
+Neotropical river otter,8
+Long-nosed echidna,8
+Goodfellow's tree kangaroo,7
+Tangalunga,7
+Francois' langur,7
+Bobak marmot,7
+Central American spider monkey,7
+Matschie's tree kangaroo,7
+Purple-faced leaf monkey,7
+Dusky leaf monkey,7
+Mantled howler monkey,7
+Bear cuscus,7
+Maxwell's duiker,7
+Mexican black howler monkey,7
+White-handed gibbon,7
+Bonnet macaque,7
+Flat-headed cat,7
+Eurasian river otter,7
+Grizzled leaf monkey,7
+North Sumatran leaf monkey,7
+Bolivian red howler monkey,7
+Cane rat,7
+Red howler monkey,7
+Mitred leaf monkey,7
+Raccoon dog,7
+Crab-eating fox,7
+Tammar wallaby,7
+Suni,7
+Tasmanian devil,7
+Greater mouse-deer,7
+Long-tailed macaque,6
+Hoary marmot,6
+Crab-eating raccoon,6
+Linne's two-toed sloth,6
+Hoffmann's two-toed sloth,6
+Blue duiker,6
+Silvery gibbon,6
+Bush dog,6
+Ringtailed rock wallaby,6
+White-whiskered spider monkey,6
+Chamek spider monkey,6
+Plains viscacha,6
+Common raccoon,6
+Brush-tailed rock wallaby,6
+De Brazza's monkey,6
+Agile gibbon,6
+Kloss's gibbon,6
+Northern nail-tailed wallaby,6
+Borneo gibbon,6
+Pileated gibbon,6
+Diademed sifaka,6
+Australian tiger cat,6
+Ridled nail-tailed wallaby,6
+Common long-nosed armadillo,6
+Wild cat,6
+White-nosed guenon,5
+Black howler monkey,5
+Sun-tailed monkey,5
+Preuss's monkey,5
+Tasmanian red-bellied pademelon,5
+Kirk's dik-dik,5
+Brown dorcopsis,5
+Leopard cat,5
+Verreaux's sifaka,5
+Six-banded armadillo,5
+Gray fox,5
+Coatimundi,5
+Vancouver marmot,5
+Allen's swamp monkey,5
+L'hoest's monkey,5
+Cuban hutia,5
+Diana monkey,5
+Gunther's dik-dik,5
+Southern tamandua,5
+Tayra,5
+Mona monkey,5
+Northern tamandua,5
+Owl-faced monkey,4
+Toque macaque,4
+Lesser panda,4
+Masked palm civet,4
+Allied rock wallaby,4
+Parma wallaby,4
+Three-toed tree sloth,4
+Black-footed rock wallaby,4
+Black-tailed jack rabbit,4
+European hare,4
+Mountain hare,4
+Bat-eared fox,4
+Red fox,4
+Red-legged pademelon,4
+Otter civet,4
+Woodchuck,4
+Cape fox,4
+Booted macaque,4
+Prehensile-tailed porcupine,4
+Maned sloth,4
+Lesser mouse-deer,4
+Red-necked pademelon,4
+White-nosed coati,4
+Black-cheeked white-nosed monkey,4
+Western rock wallaby,4
+Ruffed lemur,4
+Margay,4
+Lesser white-nosed monkey,4
+Campbell's monkey,4
+Rock hyrax,4
+Moustached monkey,4
+Crowned guenon,4
+Gray dorcopsis,4
+Golden-crowned sifaka,4
+Alpine marmot,4
+Spotted cuscus,4
+Striped skunk,4
+Yellow-bellied marmot,4
+Marbled cat,4
+White-tailed mongoose,4
+Springhare,4
+Quokka,4
+Sooty agouti,4
+Southern naked-tailed armadillo,4
+Molina's hog-nosed skunk,3
+Marsh mongoose,3
+Agouti,3
+Red-bellied monkey,3
+Rufous 'rat'-kangaroo,3
+Owston's palm civet,3
+Fisher,3
+Red uakari,3
+Mountain brush-tailed possum,3
+Brown lemur,3
+Common palm civet,3
+White-tailed jackrabbit,3
+Large bamboo rat,3
+Spectacled hare-wallaby,3
+Small Indian civet,3
+Kinkajou,3
+Long-snouted mongoose,3
+Oriental small-clawed otter,3
+Virginia opossum,3
+Tree hyrax,3
+Papuan mountain wallaby,3
+Brown-bearded saki,3
+Black uakari,3
+White-nosed bearded saki,3
+Hairy-rumpted agouti,3
+Pale fox,3
+Sand cat,3
+Brush-tailed porcupine,3
+Northern naked-tailed armadillo,3
+Indonesian porcupine,3
+Corsac fox,3
+Mexican agouti,3
+White-faced capuchin,3
+Azara's agouti,3
+Guyanan agouti,3
+Brown capuchin,3
+Ring-tailed lemur,3
+Weeping capuchin,3
+Gray cuscus,3
+Crowned lemur,3
+Yellow-throated marten,3
+Black lemur,3
+White-fronted capuchin,2
+Bush hyrax,2
+Indian spotted chevrotain,2
+Ground cuscus,2
+Swift fox,2
+Banded palm civet,2
+Brush-tailed possum,2
+Indian fox,2
+Cape hare,2
+Chinese pangolin,2
+Grison,2
+Aye-aye,2
+Small-toothed palm civet,2
+Striped-necked mongoose,2
+Royal antelope,2
+Little spotted cat,2
+Panther genet,2
+Mongoose,2
+Andean hairy armadillo,2
+Central American agouti,2
+Black-footed cat,2
+Banded hare-wallaby,2
+Mongoose lemur,2
+Kit fox,2
+Hairy armadillo,2
+Asian long-tailed porcupine,2
+Black giant squirrel,2
+Mexican tree porcupine,2
+Indian giant squirrel,2
+Asiatic brush-tailed porcupine,2
+Black-legged mongoose,2
+Burmese ferret badger,2
+African palm civet,2
+Hog-nosed skunk,2
+Island gray fox,2
+Small-spotted genet,2
+Crab-eating mongoose,2
+Large-spotted genet,2
+Old World rabbit,2
+Monk saki,2
+Hodgson's giant flying squirrel,2
+Red-bellied lemur,2
+Slender-tailed cloud rat,2
+Red giant flying squirrel,2
+Hairy tree porcupine,2
+Greater bamboo lemur,2
+Tasmanian bettong,2
+Ruddy mongoose,2
+Beech marten,2
+Red and white giant flying squirrel,2
+Scaly-tailed possum,2
+Indian giant flying squirrel,2
+Japanese giant flying squirrel,2
+Long-footed potoroo,2
+Abyssinian genet,2
+Snowshoe rabbit,2
+Brindled bandicoot,2
+Short-nosed echidna,2
+Malagasy civet,2
+Mountain viscacha,2
+Southern opossum,2
+Pichi,2
+Woylie,2
+La Plata three-banded armadillo,2
+Gambian rat,2
+Brown's hutia,2
+Guianan saki,1
+Seven-banded armadillo,1
+Golden bamboo lemur,1
+Potoroo,1
+Short-tailed mongoose,1
+Talapoin,1
+Muskrat,1
+Rusty-spotted cat,1
+Greater gliding possum,1
+Bamboo lemur,1
+Banded mongoose,1
+Rufous hare-wallaby,1
+Small-eared galago,1
+Burrowing bettong,1
+Flying lemur (glider),1
+Giant rat,1
+European pine marten,1
+Rabbit-bandicoot or bilby,1
+Hispaniolan hutia,1
+Fennec,1
+Riverine or bushman rabbit,1
+Moonrat,1
+Duck-billed platypus,1
+Peruvian mountain viscacha,1
+Rufous spiny bandicoot,1
+Nabarlek,1
+Malagasy giant rat,1
+Southern bushy-tailed olingo,1
+Olingo,1
+Marsh cottontail rabbit,1
+Potto,1
+Gray monk saki,1
+Northern bettong,1
+Three-banded armadillo,1
+Equatorial saki,1
+Pale giant squirrel,1
+Indian flying fox,1
+Eastern cottontail,1
+Mountain beaver,1
+Black-tailed prairie dog,1
+Coppery titi,1
+Greater galago,1
+Quoll,1
+Sable,1
+Servaline genet,1
+Lemuroid ringtail possum,1
+Black-footed ferret,1
+Ringtail,1
+Cuban solenodon,1
+Japanese marten,1
+Blanford's fox,1
+Haitian solenodon,1
+Little grison,1
+Hooded skunk,1
+Rock cavy,1
+South American squirrel monkey,1
+White-eared opossum,1
+New England cottontail rabbit,1
+Cacomistle,1
+Tenrec,1
+Black-footed tree rat,1
+Audubon's cottontail rabbit,1
+Gunnison's prairie dog,1
+Slow loris,1
+Western quoll,1
+American marten,1
+Lemurine night monkey,1
+Noisy night monkey,1
+Large flying fox,1
+Chaco tuco-tuco,1
+Greater long-nosed bandicoot,1
+Golden-bellied water rat,1
+Ring-tailed possum,1
+Azara's opossum,1
+Leeser hairy armadillo,1
+European polecat,1
+Dusky titi,1
+Northern night monkey,1
+Javan mongoose,1
+Eastern fox squirrel,1
+Malagasy ring-tailed mongoose,1
+Bolivian titi,1
+Long-nosed cusimanse,1
+Central American squirrel monkey,1
+Red-tailed sportive lemur,1
+Meerkat,1
+Spectacled flying fox,1
+Acouchi,1
+Long-nosed bandicoot,1
+Nuttall's cottontail rabbit,1
+Crested rat,1
+Western European hedgehog,1
+Algerian hedgehog,1
+Guinea pig,1
+Eastern European hedgehog,1
+Abert's squirrel,1
+Southern brown bandicoot,1
+Water opossum (yapok),1
+Weasel sportive lemur,1
+Banded linsang,1
+Brush rabbit,1
+Narrow-striped mongoose,1
+Comoro black flying fox,1
+Gray-headed flying fox,1
+New Guinean bandicoot,1
+Black flying fox,1
+Ferret badger,1
+Rock squirrel,1
+Bahamian hutia,1
+Golden lion tamarin,1
+New Guinea spiny bandicoot,1
+Lesser bamboo rat,1
+Cape grey mongoose,1
+Chinchilla,1
+Peruvian guinea pig,1
+Bolivian squirrel monkey,1
+African pygmy (four-toed) hedgehog,1
+Eurasian red squirrel,1
+Striped ground squirrel,1
+Red-bellied squirrel,1
+Spotted skunk,1
+Yellow mongoose,1
+European mink,1
+South African ground squirrel,1
+Fluffy glider,1
+Golden-rumped lion tamarin,1
+Siberian weasel,1
+Goeldi's monkey,1
+Midas tamarin,1
+Black-chested mustached tamarin,1
+Marbled polecat,1
+Golden-rumped elephant shrew,1
+Golden-headed lion tamarin,1
+Eastern gray squirrel,1
+Pemba flying fox,1
+Northern quoll,1
+Black-mantled tamarin,1
+Emperor tamarin,1
+Black-bellied hamster,1
+Armored rat,1
+Red-chested mustached tamarin,1
+Slender mongoose,1
+Spiny rat,1
+Musky rat kangaroo,1

@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+      // var socket = io();
+    </script>
+    <meta charset="utf-8">
+    <title>Test</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class="container">
+      <fieldset>
+
+
+      </fieldset>
+      <div id="#aurora">Did you know?</div>
+        <div id="holder">
+            <%= result_from_database %>
+        </div>
+        <!-- <form>
+            <button type="button" id="HButton"> get fucked </button>
+        </form> -->
+    </body>
+</html><script>
+  $(document).ready(function () {
+    console.log("listener");
+      var my_div = $("#holder");
+      var i = 0;
+      setInterval(function() {
+        
+      
+
+        $.ajax({
+           url: "/stats"
+        })
+        .done(function( data ) {
+           console.log( "Sample of data:", data );
+           $('#holder').html(data.message);
+        });
+      }, 2000);
+  });
+</script>
