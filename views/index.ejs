@@ -62,8 +62,10 @@
         })
         .done(function( data ) {
            console.log( "Sample of data:", data );
+           $('#holder').fadeIn("slow");
            $('#holder').html(data.message);
+           $('#holder').delay(2500).fadeOut("slow");
         });
-      }, 2000);
+      }, 5000);
   });
 </script>
